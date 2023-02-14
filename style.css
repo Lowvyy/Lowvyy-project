@@ -34,7 +34,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 /*Первая часть тренеровок*/
 div{
-	padding: 0px 0px 0px 15px;	
+	padding: 0px 0px 0px 15px;
+	
 }
 
 span {
@@ -67,15 +68,19 @@ font-family: Arial, Helvetica, sans-serif;
 	color: brown;
 }
 .example-blok{
+	padding: 0px 0px 15px 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;
+	line-height: 1.7;
+	font-weight:normal;	
+}
+
+
+.textfont{
 	padding: 0px 0px 0px 15px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size:20px;
-	line-height: 1.5;
-	font-weight:normal;	
+	line-height: 1.7;
+	font-weight:normal;
 }
-.textfont{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size:20px;
-	line-height: 1.5;
-	font-weight:normal;	
-}
+
